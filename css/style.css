@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+li.83off{
+	transition: opacity .3s;
+}
+
+li:hover{
+	opacity: 0.6;
+}
+
+img.beihai{
+	width: 800px;
+	height: 826px;
+}
+
+main.sns{
+	width: 800px;
+	margin:auto;
+}
