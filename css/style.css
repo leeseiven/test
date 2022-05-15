@@ -76,6 +76,9 @@ main.sns{
    
 }
 
+	.buy{
+		width: 800px;
+	}
 
 	
 }
@@ -163,5 +166,10 @@ main.sns{
 	}
 	img.img{
 		width: 100%;
+	}
+	
+	.buy{
+		width: 100%;
+		
 	}
    }
